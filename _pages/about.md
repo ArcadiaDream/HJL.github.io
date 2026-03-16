@@ -46,5 +46,6 @@ My research interests include *multimedia computing, information retrieval*.
 
 # 🏆 Honors and Awards
 - *2025.10*, **Grand Prize** in the CICAS Smart Power Scenario Competition.
+
 # 📖 Educations
 - *2023.09 - Present*, Undergrad in the School of Software, Shandong University. 
