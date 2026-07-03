@@ -47,7 +47,7 @@ My research interests include *Multimodal Large Language Models, robust represen
 
 **IMAGINE: Adaptive Schema-Imagery Enhanced Composition for Composed Video Retrieval** [*Coming Soon*]
 
-[***Jiale Huang***](https://github.com/ArcadiaDream/HJL.github.io), [Zixu Li](https://lee-zixu.github.io), [Zhiwei Chen](https://zivchen-ty.github.io/), [Zhiheng Fu](https://zhihfu.github.io), [Chunxiao Wang], [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm)
+[***Jiale Huang***](https://github.com/ArcadiaDream/HJL.github.io), [Zixu Li](https://lee-zixu.github.io), [Zhiwei Chen](https://zivchen-ty.github.io/), [Zhiheng Fu](https://zhihfu.github.io), Chunxiao Wang, [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm)
 
 </div>
 </div>
