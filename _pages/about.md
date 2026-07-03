@@ -27,7 +27,7 @@ My research interests include *Multimodal Large Language Models, robust represen
 # 🔥 News
 - *2025.11.08*: &nbsp;🎉🎉 One paper(INTENT), was accepted by **AAAI 2026**! Thanks and Congratulations to all co-authors!
 - *2025.10.18*: &nbsp;🎉🎉 As the member, our team wins the Grand Prize in the CICAS Smart Power Scenario Competition. Congratulations to all team members!
-- *2026.06.16*: &nbsp;🎉🎉 Two papers(IMAGINE, RankVR), were accepted by **ICMR 2026**! Thanks and Congratulations to all co-authors!
+- *2026.06.16*: &nbsp;🎉🎉 Two papers(IMAGINE, RankVR), were accepted by **ACM ICMR 2026**! Thanks and Congratulations to all co-authors!
 
 
 # 📝 Publications 
