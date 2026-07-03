@@ -57,7 +57,7 @@ My research interests include *Multimodal Large Language Models, robust represen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/INTENT-AAAI26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="3">
 
-**INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval** [*Coming Soon*]
+**INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval**
 
 [Zhiwei Chen](https://zivchen-ty.github.io/), [Yupeng Hu📧](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), [Zhiheng Fu](https://zhihfu.github.io), [Zixu Li⚓️](https://lee-zixu.github.io), [***Jiale Huang***](https://github.com/ArcadiaDream/HJL.github.io), [Qinlei Huang](https://windlikeo.github.io/HQL.github.io), [Yinwei Wei](https://weiyinwei.github.io)
 
