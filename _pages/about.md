@@ -25,9 +25,9 @@ My research interests include *Multimodal Large Language Models, robust represen
 
 
 # 🔥 News
-- *2025.11.08*: &nbsp;🎉🎉 One paper was accepted by **AAAI 2026**! Thanks and Congratulations to all co-authors!
+- *2025.11.08*: &nbsp;🎉🎉 One paper(INTENT), was accepted by **AAAI 2026**! Thanks and Congratulations to all co-authors!
 - *2025.10.18*: &nbsp;🎉🎉 As the member, our team wins the Grand Prize in the CICAS Smart Power Scenario Competition. Congratulations to all team members!
-- *2026.06.16":
+- *2026.06.16*: &nbsp;🎉🎉 Two papers(IMAGINE, RankVR), were accepted by **ICMR 2026**! Thanks and Congratulations to all co-authors!
 
 
 # 📝 Publications 
@@ -38,6 +38,26 @@ My research interests include *Multimodal Large Language Models, robust represen
 **INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval** [*Coming Soon*]
 
 [Zhiwei Chen](https://zivchen-ty.github.io/), [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), [Zhiheng Fu](https://zhihfu.github.io), [Zixu Li](https://lee-zixu.github.io), [***Jiale Huang***](https://github.com/ArcadiaDream/HJL.github.io), [Qinlei Huang](https://windlikeo.github.io/HQL.github.io), [Yinwei Wei](https://weiyinwei.github.io)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/INTENT-AAAI26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**IMAGINE: Adaptive Schema-Imagery Enhanced Composition for Composed Video Retrieval** [*Coming Soon*]
+
+[***Jiale Huang***](https://github.com/ArcadiaDream/HJL.github.io), [Zixu Li](https://lee-zixu.github.io), [Zhiwei Chen](https://zivchen-ty.github.io/), [Zhiheng Fu](https://zhihfu.github.io), [Chunxiao Wang], [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/INTENT-AAAI26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RankVR: Low-Rank Structure Perception and Value Recalibration for Robust Composed Image Retrieval** [*Coming Soon*]
+
+[***Jiale Huang***](https://github.com/ArcadiaDream/HJL.github.io), [Zixu Li](https://lee-zixu.github.io), [Zhiheng Fu](https://zhihfu.github.io), [Zhiwei Chen](https://zivchen-ty.github.io/), [Qinlei Huang](https://windlikeo.github.io/HQL.github.io), [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm)
 
 </div>
 </div>
