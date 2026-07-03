@@ -42,8 +42,8 @@ My research interests include *Multimodal Large Language Models, robust represen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM ICMR 2026</div><img src='images/IMAGINE-IMCR26.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="2">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM ICMR 2026</div><img src='images/IMAGINE-ICMR26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **IMAGINE: Adaptive Schema-Imagery Enhanced Composition for Composed Video Retrieval** [*Coming Soon*]
 
@@ -53,7 +53,7 @@ My research interests include *Multimodal Large Language Models, robust represen
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM IMCR 2026</div><img src='images/RankVR-ICMR26.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="3">
+<div class='paper-box-text' markdown="1">
 
 **RankVR: Low-Rank Structure Perception and Value Recalibration for Robust Composed Image Retrieval** [*Coming Soon*]
 
