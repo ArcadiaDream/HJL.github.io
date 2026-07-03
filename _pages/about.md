@@ -61,7 +61,7 @@ My research interests include *Multimodal Large Language Models, robust represen
 
 [Zhiwei Chen](https://zivchen-ty.github.io/), [Yupeng Hu📧](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), [Zhiheng Fu](https://zhihfu.github.io), [Zixu Li⚓️](https://lee-zixu.github.io), [***Jiale Huang***](https://github.com/ArcadiaDream/HJL.github.io), [Qinlei Huang](https://windlikeo.github.io/HQL.github.io), [Yinwei Wei](https://weiyinwei.github.io)
 
-[[Paper]](https://arxiv.org/abs/2604.18051)) [[Project]](https://zivchen-ty.github.io/INTENT.github.io/)) [[Code]](https://github.com/iLearn-Lab/AAAI26-INTENT)) [[Offical Version]](https://ojs.aaai.org/index.php/AAAI/article/view/39181)
+[[Paper]](https://arxiv.org/abs/2604.18051) [[Project]](https://zivchen-ty.github.io/INTENT.github.io/) [[Code]](https://github.com/iLearn-Lab/AAAI26-INTENT) [[Offical Version]](https://ojs.aaai.org/index.php/AAAI/article/view/39181)
 
 </div>
 </div>
