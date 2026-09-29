@@ -77,5 +77,8 @@ My research interests include *AI for Science, Reinforcement Learning, and Infor
 # 🏆 Honors and Awards
 - *2025.10*, **Grand Prize** in the CICAS Smart Power Scenario Competition.
 
+# Competition
+- 2nd place 🥈, ECCV OpenSUN3D Workshop, SceneFun3D Benchmark Challenge, 2026.(https://eval.ai/web/challenges/challenge-page/2466/leaderboard/6119)
+
 # 📖 Educations
 - *2023.09 - Present*, Undergrad in the School of Software, Shandong University. 
