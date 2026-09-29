@@ -42,7 +42,7 @@ My research interests include *AI for Science, Reinforcement Learning, and Infor
 
 [***Jiale Huang***](https://github.com/ArcadiaDream/HJL.github.io), [Zixu Li](https://lee-zixu.github.io) ⚓️, [Zhiwei Chen](https://zivchen-ty.github.io/), [Zhiheng Fu](https://zhihfu.github.io), Chunxiao Wang, [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm)  📧
 
-[[page]](https://arxiv.org/abs/2606.08144)
+[[paper]](https://arxiv.org/abs/2606.08144)
 
 </div>
 </div>
@@ -54,7 +54,7 @@ My research interests include *AI for Science, Reinforcement Learning, and Infor
 
 [***Jiale Huang***](https://github.com/ArcadiaDream/HJL.github.io), [Zixu Li](https://lee-zixu.github.io) ⚓️, [Zhiheng Fu](https://zhihfu.github.io), [Zhiwei Chen](https://zivchen-ty.github.io/), [Qinlei Huang](https://windlikeo.github.io/HQL.github.io), [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm) 📧
 
-[[page]](https://arxiv.org/abs/2606.11689)
+[[paper]](https://arxiv.org/abs/2606.11689)
 
 </div>
 </div>
