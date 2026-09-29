@@ -81,4 +81,4 @@ My research interests include *AI for Science, Reinforcement Learning, and Infor
 - 2nd place 🥈, ECCV OpenSUN3D Workshop, SceneFun3D Benchmark Challenge, 2026. [Link](https://eval.ai/web/challenges/challenge-page/2466/leaderboard/6119)
 
 # 📖 Educations
-- *2023.09 - Present*, Undergraduate in the School of Software, Shandong University. 
+- *2023.09 - Present*, Undergrad in the School of Software, Shandong University. 
