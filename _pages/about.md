@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am Jiale Huang (黄嘉乐).
 =====
-I'm currently an undergraduate student in the [School of Software](https://www.sc.sdu.edu.cn), [Shandong University](https://www.sdu.edu.cn), under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Dr.[Zixu Li](https://lee-zixu.github.io), working closely with Dr.[Zhiwei Chen](https://zivchen-ty.github.io/).
+I'm currently an undergraduate student in the [School of Software](https://www.sc.sdu.edu.cn), [Shandong University](https://www.sdu.edu.cn), under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Dr. [Zixu Li](https://lee-zixu.github.io), working closely with Dr. [Zhiwei Chen](https://zivchen-ty.github.io/).
 
 My research interests include *AI for Science, Reinforcement Learning, and Information Retrieval*.
 
