@@ -19,12 +19,13 @@ redirect_from:
 
 Hi, I am Jiale Huang (黄嘉乐).
 =====
-I'm currently an Undergrad student in the [School of Software](https://www.sc.sdu.edu.cn), [Shandong University](https://www.sdu.edu.cn), under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm). 
+I'm currently an undergraduate student in the [School of Software](https://www.sc.sdu.edu.cn), [Shandong University](https://www.sdu.edu.cn), under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and [Zixu Li](https://lee-zixu.github.io), working closely with [Zhiwei Chen](https://zivchen-ty.github.io/).
 
-My research interests include *Multimodal Large Language Models, robust representation learning, and trustworthy AI*.
+My research interests include *AI for Science, Reinforcement Learning, and Information Retrieval*.
 
 
 # 🔥 News
+- *2026.09.20*: &nbsp;🎉🎉 Thrilled to share that our team won the **2nd Place🥈** in the SceneFun3D Benchmark Challenge at the Open-World 3D Scene Understanding and Representations (OpenSUN3D) Workshop @ ECCV 2026! Congratulations to all members!
 - *2026.04.15*: &nbsp;🎉🎉 Two papers(IMAGINE, RankVR), were accepted by **ACM ICMR 2026**! Thanks and Congratulations to all co-authors!
 - *2025.11.08*: &nbsp;🎉🎉 One paper(INTENT), was accepted by **AAAI 2026**! Thanks and Congratulations to all co-authors!
 - *2025.10.18*: &nbsp;🎉🎉 As the member, our team wins the Grand Prize in the CICAS Smart Power Scenario Competition. Congratulations to all team members!
