@@ -38,9 +38,11 @@ My research interests include *AI for Science, Reinforcement Learning, and Infor
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM ICMR 2026</div><img src='images/IMAGINE-ICMR26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**IMAGINE: Adaptive Schema-Imagery Enhanced Composition for Composed Video Retrieval** [*Coming Soon*]
+**IMAGINE: Adaptive Schema-Imagery Enhanced Composition for Composed Video Retrieval**
 
 [***Jiale Huang***](https://github.com/ArcadiaDream/HJL.github.io), [Zixu Li](https://lee-zixu.github.io) ⚓️, [Zhiwei Chen](https://zivchen-ty.github.io/), [Zhiheng Fu](https://zhihfu.github.io), Chunxiao Wang, [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm)  📧
+
+[[page]](https://arxiv.org/abs/2606.08144)
 
 </div>
 </div>
@@ -48,9 +50,11 @@ My research interests include *AI for Science, Reinforcement Learning, and Infor
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM ICMR 2026</div><img src='images/RankVR-ICMR26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**RankVR: Low-Rank Structure Perception and Value Recalibration for Robust Composed Image Retrieval** [*Coming Soon*]
+**RankVR: Low-Rank Structure Perception and Value Recalibration for Robust Composed Image Retrieval**
 
 [***Jiale Huang***](https://github.com/ArcadiaDream/HJL.github.io), [Zixu Li](https://lee-zixu.github.io) ⚓️, [Zhiheng Fu](https://zhihfu.github.io), [Zhiwei Chen](https://zivchen-ty.github.io/), [Qinlei Huang](https://windlikeo.github.io/HQL.github.io), [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm) 📧
+
+[[page]](https://arxiv.org/abs/2606.11689)
 
 </div>
 </div>
@@ -62,7 +66,7 @@ My research interests include *AI for Science, Reinforcement Learning, and Infor
 
 [Zhiwei Chen](https://zivchen-ty.github.io/), [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm) 📧, [Zhiheng Fu](https://zhihfu.github.io), [Zixu Li](https://lee-zixu.github.io) ⚓️, [***Jiale Huang***](https://github.com/ArcadiaDream/HJL.github.io), [Qinlei Huang](https://windlikeo.github.io/HQL.github.io), [Yinwei Wei](https://weiyinwei.github.io)
 
-[[Paper]](https://arxiv.org/abs/2604.18051) [[Project]](https://zivchen-ty.github.io/INTENT.github.io/) [[Code]](https://github.com/iLearn-Lab/AAAI26-INTENT) [[Offical Version]](https://ojs.aaai.org/index.php/AAAI/article/view/39181)
+[[Paper]](https://arxiv.org/abs/2604.18051) [[Project]](https://zivchen-ty.github.io/INTENT.github.io/) [[Code]](https://github.com/iLearn-Lab/AAAI26-INTENT)
 
 </div>
 </div>
