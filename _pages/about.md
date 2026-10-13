@@ -75,6 +75,7 @@ My research interests include *AI for Science, Reinforcement Learning, and Infor
 # 🔖 Patent 
 
 # 🎖 Honors and Awards
+- *2026.10*, National Scholarship (国家奖学金).
 - *2025.10*, **Grand Prize** in the CICAS Smart Power Scenario Competition.
 
 # 🏆 Competition
