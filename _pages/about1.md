@@ -395,7 +395,7 @@ redirect_from:
 
 
     <!-- INTENT Paper -->
-    <div class="hjl-card" data-tags="First Author, Multimodal Understanding, Robustness">
+    <div class="hjl-card" data-tags="Multimodal Understanding, Robustness">
       <div class="hjl-card-img">
         <div class="hjl-badge">AAAI 2026</div>
         <img src="images/INTENT-AAAI26.png" alt="HINT">
@@ -413,7 +413,6 @@ redirect_from:
           
         </div>
         <div class="hjl-badge-container">
-          <span class="hjl-inner-tag">First Author</span>
           <span class="hjl-inner-tag">Multimodal Understanding</span>
           <span class="hjl-inner-tag">Robustness</span>
         </div>
