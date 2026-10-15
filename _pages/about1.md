@@ -283,7 +283,7 @@ redirect_from:
   </div>
   <div class="opensource-grid">
     <div class="opensource-card">
-      <img src="images/consep-logo.png" alt="INTENT">
+      <img src="images/intent-logo.png" alt="INTENT">
       <div class="opensource-card-title">INTENT</div>
       <div class="opensource-card-meta"><span class="i18n-en-inline">AAAI 2026</span><span class="i18n-zh-inline">AAAI 2026</span></div>
       <div class="opensource-card-links">
