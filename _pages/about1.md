@@ -348,7 +348,7 @@ redirect_from:
         <div class="hjl-card-title">IMAGINE: Adaptive Schema-Imagery Enhanced Composition for Composed Video Retrieval</div>
         <div class="hjl-card-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</div>
         <div class="hjl-card-authors">
-          <a href="https://github.com/ArcadiaDream/HJL.github.io" class="hjl-author-self">Jiale Huang</a>
+          <a href="https://github.com/ArcadiaDream/HJL.github.io" class="hjl-author-self">Jiale Huang</a>,
           <a href="https://lee-zixu.github.io">Zixu Li</a>⚓️, 
           <a href="https://zivchen-ty.github.io/">Zhiwei Chen</a>, 
           <a href="https://zhihfu.github.io">Zhiheng Fu</a>, 
@@ -375,7 +375,7 @@ redirect_from:
         <div class="hjl-card-title">RankVR: Low-Rank Structure Perception and Value Recalibration for Robust Composed Image Retrieval</div>
         <div class="hjl-card-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</div>
         <div class="hjl-card-authors">
-          <a href="https://github.com/ArcadiaDream/HJL.github.io" class="hjl-author-self">Jiale Huang</a>
+          <a href="https://github.com/ArcadiaDream/HJL.github.io" class="hjl-author-self">Jiale Huang</a>,
           <a href="https://lee-zixu.github.io">Zixu Li</a>⚓️, 
           <a href="https://zhihfu.github.io">Zhiheng Fu</a>, 
           <a href="https://zivchen-ty.github.io/">Zhiwei Chen</a>, 
