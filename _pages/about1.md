@@ -285,7 +285,7 @@ redirect_from:
     <div class="opensource-card">
       <img src="images/consep-logo.png" alt="INTENT">
       <div class="opensource-card-title">INTENT</div>
-      <div class="opensource-card-meta"><span class="i18n-en-inline">CVPR 2026</span><span class="i18n-zh-inline">CVPR 2026</span></div>
+      <div class="opensource-card-meta"><span class="i18n-en-inline">AAAI 2026</span><span class="i18n-zh-inline">AAAI 2026</span></div>
       <div class="opensource-card-links">
         <a href="https://arxiv.org/abs/2604.18051">Paper</a>
         <a href="https://zivchen-ty.github.io/INTENT.github.io/">Project</a>
@@ -342,7 +342,7 @@ redirect_from:
     <div class="hjl-card" data-tags="First Author, Multimodal Understanding">
       <div class="hjl-card-img">
         <div class="hjl-badge">ACM ICMR 2026</div>
-        <img src="images/IMAGINE-ACM ICMR 26.png" alt="IMAGINE">
+        <img src="images/IMAGINE-ICMR26.png" alt="IMAGINE">
       </div>
       <div class="hjl-card-body">
         <div class="hjl-card-title">IMAGINE: Adaptive Schema-Imagery Enhanced Composition for Composed Video Retrieval</div>
@@ -369,7 +369,7 @@ redirect_from:
     <div class="hjl-card" data-tags="First Author, Multimodal Understanding, Robustness">
       <div class="hjl-card-img">
         <div class="hjl-badge">ACM ICMR 2026</div>
-        <img src="images/RankVR-ACM ICMR 26.png" alt="RankVR">
+        <img src="images/RankVR-ICMR26.png" alt="RankVR">
       </div>
       <div class="hjl-card-body">
         <div class="hjl-card-title">RankVR: Low-Rank Structure Perception and Value Recalibration for Robust Composed Image Retrieval</div>
