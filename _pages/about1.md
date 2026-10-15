@@ -430,7 +430,7 @@ redirect_from:
 
 <h1><span class="i18n-en-inline">🏆 Honors and Awards</span><span class="i18n-zh-inline">🏆 荣誉与奖励</span></h1>
 <ul>
-  <li><span class="i18n-en-inline"><em>2026.10</em>, National Scholarship (国家奖学金).</span><span class="i18n-zh-inline"><em>2025.10</em>，国家奖学金。</span></li>
+  <li><span class="i18n-en-inline"><em>2026.10</em>, National Scholarship (国家奖学金).</span><span class="i18n-zh-inline"><em>2026.10</em>，国家奖学金。</span></li>
   <li><span class="i18n-en-inline"><em>2025.10</em>, <strong>Grand Prize</strong> in the CICAS Smart Power Scenario Competition.</span><span class="i18n-zh-inline"><em>2025.10</em>，CICAS 智慧电力场景竞赛<strong>特等奖</strong>。</span></li>
 </ul>
 
