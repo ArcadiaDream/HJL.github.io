@@ -285,7 +285,7 @@ redirect_from:
     <div class="opensource-card">
       <img src="images/intent-logo.png" alt="INTENT">
       <div class="opensource-card-title">INTENT</div>
-      <div class="opensource-card-meta"><span class="i18n-en-inline">AAAI 2026</span><span class="i18n-zh-inline">AAAI 2026</span></div>
+      <div class="opensource-card-meta"><span class="i18n-en-inline">AAAI 2026·Intent Disentanglement</span><span class="i18n-zh-inline">AAAI 2026·意图解耦</span></div>
       <div class="opensource-card-links">
         <a href="https://arxiv.org/abs/2604.18051">Paper</a>
         <a href="https://zivchen-ty.github.io/INTENT.github.io/">Project</a>
@@ -346,7 +346,7 @@ redirect_from:
       </div>
       <div class="hjl-card-body">
         <div class="hjl-card-title">IMAGINE: Adaptive Schema-Imagery Enhanced Composition for Composed Video Retrieval</div>
-        <div class="hjl-card-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</div>
+        <div class="hjl-card-venue">16th ACM International Conference on Multimedia Retrieval (ACM ICMR 2026)</div>
         <div class="hjl-card-authors">
           <a href="https://github.com/ArcadiaDream/HJL.github.io" class="hjl-author-self">Jiale Huang</a>,
           <a href="https://lee-zixu.github.io">Zixu Li</a>⚓️, 
@@ -373,7 +373,7 @@ redirect_from:
       </div>
       <div class="hjl-card-body">
         <div class="hjl-card-title">RankVR: Low-Rank Structure Perception and Value Recalibration for Robust Composed Image Retrieval</div>
-        <div class="hjl-card-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</div>
+        <div class="hjl-card-venue">16th ACM International Conference on Multimedia Retrieval (ACM ICMR 2026)</div>
         <div class="hjl-card-authors">
           <a href="https://github.com/ArcadiaDream/HJL.github.io" class="hjl-author-self">Jiale Huang</a>,
           <a href="https://lee-zixu.github.io">Zixu Li</a>⚓️, 
@@ -402,7 +402,7 @@ redirect_from:
       </div>
       <div class="hjl-card-body">
         <div class="hjl-card-title">INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval</div>
-        <div class="hjl-card-venue">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)</div>
+        <div class="hjl-card-venue">The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)</div>
         <div class="hjl-card-authors">
           <a href="https://zivchen-ty.github.io/">Zhiwei Chen</a>, 
           <a href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm">Yupeng Hu</a>📧
